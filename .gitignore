@@ -1,3 +1,7 @@
+# RubyMind
+.idea
+
+##
 *.rbc
 capybara-*.html
 .rspec
