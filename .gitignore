@@ -1,6 +1,10 @@
 # RubyMind
 .idea
 
+# girl
+/public/uploads/idea
+
+
 ##
 *.rbc
 capybara-*.html
